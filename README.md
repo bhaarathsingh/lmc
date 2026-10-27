@@ -1,2 +1,2 @@
 # lmc
-lmc project llm group
+South-View Cemetery Informational Q&A LLM
